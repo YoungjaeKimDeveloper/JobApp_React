@@ -5,7 +5,6 @@ const JobsPage = () => {
   return (
     <div>
       <Joblistings isHomePage={false} />
-      fe
     </div>
   );
 };
